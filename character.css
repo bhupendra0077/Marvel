@@ -1,0 +1,11 @@
+#backgroundImg{
+    position: absolute;
+    background-image: url(bg.jpg);
+    background-size:cover;
+    height: 100%;
+    width:100%;
+    background-position: center;
+     /* /* Add the blur effect */
+    filter: blur(8px);
+     -webkit-filter: blur(8px); 
+}
